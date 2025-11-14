@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Chat Room",
+  "description": "A web-based chat application where users can join rooms by name to communicate in real-time. This frontend demo simulates the chat experience; a backend with WebSockets (like Socket.IO) is required for true multi-user functionality.",
+  "requestFramePermissions": []
+}
